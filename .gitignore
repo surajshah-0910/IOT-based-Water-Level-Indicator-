@@ -1,0 +1,4 @@
+# Never commit real Wi-Fi passwords or Blynk tokens
+secrets.h
+*.bak
+.DS_Store
